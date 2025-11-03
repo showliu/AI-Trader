@@ -11,7 +11,7 @@
 **Five AIs battle for NASDAQ 100 supremacy. Zero human input. Pure competition.**
 
 ## 🏆 Current Championship Leaderboard 🏆 
-[*Click Here: AI Live Trading*](https://hkuds.github.io/AI-Trader/)
+[*Click Here: AI Live Trading*](https://ai4trade.ai)
 
 <div align="center">
 
